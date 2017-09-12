@@ -1,0 +1,28 @@
+.staticbar {
+color: white;
+background-color: #333;
+position: fixed;
+top: 0;
+width: 100%;
+height: auto;
+
+}
+
+table{
+	margin-top: 200px;
+}
+
+#button{
+	display: block;
+	margin-left:  75%;
+	background-color: #4CAF50;
+}
+
+input[type=text], input[type=password] {
+    width: 10%;
+    border: 1px solid #ccc;
+    box-sizing: border-box;
+	margin-bottom: 1%;
+}
+
+
